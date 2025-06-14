@@ -1,0 +1,9 @@
+requests
+sentence-transformers
+scipy
+pymupdf
+fastapi
+faiss-cpu
+SQLAlchemy
+pydantic
+uvicorn[standard]
