@@ -2,6 +2,8 @@
 
 This module is responsible for building the **Large Language Model (LLM)** for **Machine W**.
 
+Link: https://wmaszyna.netlify.app/
+
 ## Data Resources
 
 The `data/` folder contains all acquired resources that can be used for:
